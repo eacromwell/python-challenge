@@ -1,3 +1,16 @@
+# Python Challenge Completed
+
+The Python Challenge was completed using two scripts each named "main.py" within python-challenge/PyBank and python-challenge/PyPoll.
+
+Both will read and curate data from the relevant csv data files stores under /Resources within each directory, output data to the terminal and create a .txt file including the findings according to the assigment specifications below.
+
+I noticed in the class rubric file that additional points were granted for storing the header, so the header was stored and then additionally displayed within both the terminal and the exported .txt file for each script. 
+
+This was a fun challenge and required a good amount of research and breaking down scripts to understand how to properly use the for loops and list pieces of information correctly.
+
+Screenshots have been included in each directory of the results of the command line output.
+
+
 # Unit 3 Homework: Python
 
 In this assignment, you'll complete two challenges in which you'll apply your new Python skills. 
