@@ -10,8 +10,10 @@ This was a fun challenge and required a good amount of research and breaking dow
 
 Screenshots have been included in each directory of the results of the command line output.
 
+I also uploaded and used the README.md found in the original assignment materials to format this README in a better way than a .txt, which helped me learn a bit about .md formatting.
 
-# Unit 3 Homework: Python
+
+# Assignment Details: Unit 3 Homework: Python
 
 In this assignment, you'll complete two challenges in which you'll apply your new Python skills. 
 
