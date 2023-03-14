@@ -1,4 +1,4 @@
-# Python Challenge Completed
+# Python Challenge Completion Notes
 
 The Python Challenge was completed using two scripts each named "main.py" within python-challenge/PyBank and python-challenge/PyPoll.
 
